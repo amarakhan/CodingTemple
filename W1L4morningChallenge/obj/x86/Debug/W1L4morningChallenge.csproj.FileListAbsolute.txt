@@ -1,0 +1,6 @@
+/Users/amarakhan/Projects/W1L4morningChallenge/W1L4morningChallenge/bin/Debug/W1L4morningChallenge.exe
+/Users/amarakhan/Projects/W1L4morningChallenge/W1L4morningChallenge/bin/Debug/W1L4morningChallenge.pdb
+/Users/amarakhan/Projects/W1L4morningChallenge/W1L4morningChallenge/obj/x86/Debug/W1L4morningChallenge.csprojAssemblyReference.cache
+/Users/amarakhan/Projects/W1L4morningChallenge/W1L4morningChallenge/obj/x86/Debug/W1L4morningChallenge.csproj.CoreCompileInputs.cache
+/Users/amarakhan/Projects/W1L4morningChallenge/W1L4morningChallenge/obj/x86/Debug/W1L4morningChallenge.exe
+/Users/amarakhan/Projects/W1L4morningChallenge/W1L4morningChallenge/obj/x86/Debug/W1L4morningChallenge.pdb
